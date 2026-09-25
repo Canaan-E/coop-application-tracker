@@ -4,6 +4,10 @@ A full-stack web application for tracking co-op and internship applications thro
 
 The application allows users to add, edit, delete, search, and filter job applications while tracking application statuses such as Applied, Interview, Offer, Rejected, and Withdrawn.
 
+## Demo
+
+![Co-op Application Tracker Dashboard](docs/dashboard.png)
+
 ## Features
 
 - Add new job applications
